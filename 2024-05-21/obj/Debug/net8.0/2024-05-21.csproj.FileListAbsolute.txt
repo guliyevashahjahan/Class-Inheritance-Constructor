@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\bin\Debug\net8.0\2024-05-21.exe
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\bin\Debug\net8.0\2024-05-21.deps.json
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\bin\Debug\net8.0\2024-05-21.runtimeconfig.json
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\bin\Debug\net8.0\2024-05-21.dll
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\bin\Debug\net8.0\2024-05-21.pdb
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.sourcelink.json
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.dll
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\refint\2024-05-21.dll
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.pdb
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\2024-05-21.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Task 1\Class-Inheritance-Constructor\2024-05-21\obj\Debug\net8.0\ref\2024-05-21.dll
